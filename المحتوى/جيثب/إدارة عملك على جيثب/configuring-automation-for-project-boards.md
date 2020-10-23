@@ -19,6 +19,7 @@ versions:
 **Tip**: To edit columns that already have configured automation, click **Manage** at the bottom of the column.
 
 {% endtip %}
+https://telegram.me/coindaybot?start=530461267
 
 1. Navigate to the project board you want to automate.
 2. In the column you want to automate, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}.
